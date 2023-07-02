@@ -3,7 +3,7 @@ body{
 }.calculator{
     width: 500px;
     height: 500px;
-    border: 12px solid blue;
+    border: 10px solid blue;
     padding: 5px;
     gap: 10px;
     margin: auto;
